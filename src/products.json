@@ -1,0 +1,2913 @@
+[
+  {
+    "id": 1,
+    "name": "Standard Classic Oxford Shirt",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 161.83,
+    "rating": 4.1,
+    "stock": 0,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 2,
+    "name": "Standard Floral Wrap Dress",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 272.42,
+    "rating": 4.4,
+    "stock": 44,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 3,
+    "name": "Standard Rainbow Tee",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 194.74,
+    "rating": 4.0,
+    "stock": 108,
+    "tags": [],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 4,
+    "name": "Standard Wireless Headphones",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 143.97,
+    "rating": 4.1,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 5,
+    "name": "Standard Smartwatch",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 53.19,
+    "rating": 4.9,
+    "stock": 62,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\u231a"
+  },
+  {
+    "id": 6,
+    "name": "Standard Action Camera",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 204.49,
+    "rating": 4.6,
+    "stock": 92,
+    "tags": [],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 7,
+    "name": "Standard Mechanical Keyboard",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 102.96,
+    "rating": 4.5,
+    "stock": 64,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 8,
+    "name": "Standard Smart Speaker",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 174.22,
+    "rating": 3.7,
+    "stock": 159,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 9,
+    "name": "Pro Classic Oxford Shirt",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 80.93,
+    "rating": 4.3,
+    "stock": 22,
+    "tags": [
+      "bestseller",
+      "sale"
+    ],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 10,
+    "name": "Pro Floral Wrap Dress",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 124.12,
+    "rating": 4.2,
+    "stock": 29,
+    "tags": [
+      "sale"
+    ],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 11,
+    "name": "Pro Rainbow Tee",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 152.16,
+    "rating": 4.7,
+    "stock": 58,
+    "tags": [],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 12,
+    "name": "Pro Wireless Headphones",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 265.52,
+    "rating": 4.8,
+    "stock": 41,
+    "tags": [],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 13,
+    "name": "Pro Smartwatch",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 24.41,
+    "rating": 4.4,
+    "stock": 15,
+    "tags": [],
+    "image": "\u231a"
+  },
+  {
+    "id": 14,
+    "name": "Pro Action Camera",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 100.11,
+    "rating": 3.8,
+    "stock": 0,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 15,
+    "name": "Pro Mechanical Keyboard",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 67.83,
+    "rating": 4.5,
+    "stock": 81,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 16,
+    "name": "Pro Smart Speaker",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 283.26,
+    "rating": 4.7,
+    "stock": 27,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 17,
+    "name": "Deluxe Classic Oxford Shirt",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 274.67,
+    "rating": 4.4,
+    "stock": 0,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 18,
+    "name": "Deluxe Floral Wrap Dress",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 125.64,
+    "rating": 4.1,
+    "stock": 136,
+    "tags": [],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 19,
+    "name": "Deluxe Rainbow Tee",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 53.24,
+    "rating": 3.9,
+    "stock": 114,
+    "tags": [],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 20,
+    "name": "Deluxe Wireless Headphones",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 36.3,
+    "rating": 4.4,
+    "stock": 61,
+    "tags": [],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 21,
+    "name": "Deluxe Smartwatch",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 185.22,
+    "rating": 3.9,
+    "stock": 14,
+    "tags": [],
+    "image": "\u231a"
+  },
+  {
+    "id": 22,
+    "name": "Deluxe Action Camera",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 258.35,
+    "rating": 4.1,
+    "stock": 135,
+    "tags": [],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 23,
+    "name": "Deluxe Mechanical Keyboard",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 125.52,
+    "rating": 4.8,
+    "stock": 96,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 24,
+    "name": "Deluxe Smart Speaker",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 182.34,
+    "rating": 4.7,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 25,
+    "name": "Standard Slim Fit Chino",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 129.84,
+    "rating": 4.3,
+    "stock": 79,
+    "tags": [
+      "sale"
+    ],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 26,
+    "name": "Standard Silk Shell Top",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 135.68,
+    "rating": 3.6,
+    "stock": 122,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 27,
+    "name": "Standard Cotton Overalls",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 236.76,
+    "rating": 3.9,
+    "stock": 71,
+    "tags": [
+      "bestseller",
+      "sale"
+    ],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 28,
+    "name": "Standard Noise-Cancelling Earbuds",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 245.77,
+    "rating": 4.4,
+    "stock": 103,
+    "tags": [],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 29,
+    "name": "Standard Fitness Tracker",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 110.22,
+    "rating": 3.8,
+    "stock": 83,
+    "tags": [],
+    "image": "\u231a"
+  },
+  {
+    "id": 30,
+    "name": "Standard DSLR Body",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 127.95,
+    "rating": 3.7,
+    "stock": 53,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 31,
+    "name": "Standard Wireless Mouse",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 63.32,
+    "rating": 4.1,
+    "stock": 75,
+    "tags": [],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 32,
+    "name": "Standard Smart Bulb",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 209.75,
+    "rating": 4.8,
+    "stock": 0,
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 33,
+    "name": "Pro Slim Fit Chino",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 190.06,
+    "rating": 4.1,
+    "stock": 151,
+    "tags": [],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 34,
+    "name": "Pro Silk Shell Top",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 284.91,
+    "rating": 4.6,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 35,
+    "name": "Pro Cotton Overalls",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 118.26,
+    "rating": 4.0,
+    "stock": 58,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 36,
+    "name": "Pro Noise-Cancelling Earbuds",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 115.29,
+    "rating": 4.0,
+    "stock": 165,
+    "tags": [],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 37,
+    "name": "Pro Fitness Tracker",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 142.79,
+    "rating": 4.3,
+    "stock": 26,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\u231a"
+  },
+  {
+    "id": 38,
+    "name": "Pro DSLR Body",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 26.58,
+    "rating": 4.1,
+    "stock": 190,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 39,
+    "name": "Pro Wireless Mouse",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 207.83,
+    "rating": 4.2,
+    "stock": 0,
+    "tags": [],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 40,
+    "name": "Pro Smart Bulb",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 60.05,
+    "rating": 4.0,
+    "stock": 190,
+    "tags": [
+      "bestseller",
+      "new"
+    ],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 41,
+    "name": "Deluxe Slim Fit Chino",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 160.69,
+    "rating": 4.6,
+    "stock": 179,
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 42,
+    "name": "Deluxe Silk Shell Top",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 228.44,
+    "rating": 4.0,
+    "stock": 0,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 43,
+    "name": "Deluxe Cotton Overalls",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 160.0,
+    "rating": 4.6,
+    "stock": 133,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 44,
+    "name": "Deluxe Noise-Cancelling Earbuds",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 253.58,
+    "rating": 3.9,
+    "stock": 117,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 45,
+    "name": "Deluxe Fitness Tracker",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 173.19,
+    "rating": 4.0,
+    "stock": 109,
+    "tags": [
+      "bestseller",
+      "new",
+      "sale"
+    ],
+    "image": "\u231a"
+  },
+  {
+    "id": 46,
+    "name": "Deluxe DSLR Body",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 98.41,
+    "rating": 4.7,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 47,
+    "name": "Deluxe Wireless Mouse",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 46.56,
+    "rating": 4.8,
+    "stock": 79,
+    "tags": [],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 48,
+    "name": "Deluxe Smart Bulb",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 163.7,
+    "rating": 4.3,
+    "stock": 26,
+    "tags": [],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 49,
+    "name": "Standard Linen Button-Down",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 206.52,
+    "rating": 3.9,
+    "stock": 51,
+    "tags": [],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 50,
+    "name": "Standard A-Line Midi Skirt",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 126.22,
+    "rating": 4.3,
+    "stock": 0,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 51,
+    "name": "Standard Dino Pyjamas",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 137.16,
+    "rating": 4.8,
+    "stock": 170,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 52,
+    "name": "Standard Portable Speaker",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 235.33,
+    "rating": 3.9,
+    "stock": 90,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 53,
+    "name": "Standard GPS Watch",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 171.22,
+    "rating": 4.4,
+    "stock": 182,
+    "tags": [],
+    "image": "\u231a"
+  },
+  {
+    "id": 54,
+    "name": "Standard Compact Zoom",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 170.36,
+    "rating": 4.7,
+    "stock": 146,
+    "tags": [],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 55,
+    "name": "Standard Portable SSD",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 59.38,
+    "rating": 3.9,
+    "stock": 0,
+    "tags": [
+      "sale"
+    ],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 56,
+    "name": "Standard LED Desk Lamp",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 278.54,
+    "rating": 4.4,
+    "stock": 107,
+    "tags": [],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 57,
+    "name": "Pro Linen Button-Down",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 181.85,
+    "rating": 3.7,
+    "stock": 78,
+    "tags": [],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 58,
+    "name": "Pro A-Line Midi Skirt",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 65.23,
+    "rating": 4.8,
+    "stock": 181,
+    "tags": [],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 59,
+    "name": "Pro Dino Pyjamas",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 209.4,
+    "rating": 4.8,
+    "stock": 0,
+    "tags": [
+      "sale"
+    ],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 60,
+    "name": "Pro Portable Speaker",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 30.57,
+    "rating": 4.8,
+    "stock": 0,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 61,
+    "name": "Pro GPS Watch",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 145.93,
+    "rating": 4.7,
+    "stock": 0,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\u231a"
+  },
+  {
+    "id": 62,
+    "name": "Pro Compact Zoom",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 48.28,
+    "rating": 3.8,
+    "stock": 159,
+    "tags": [
+      "sale"
+    ],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 63,
+    "name": "Pro Portable SSD",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 272.99,
+    "rating": 4.3,
+    "stock": 168,
+    "tags": [
+      "sale"
+    ],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 64,
+    "name": "Pro LED Desk Lamp",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 169.81,
+    "rating": 4.1,
+    "stock": 81,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 65,
+    "name": "Deluxe Linen Button-Down",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 25.73,
+    "rating": 4.5,
+    "stock": 112,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 66,
+    "name": "Deluxe A-Line Midi Skirt",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 249.61,
+    "rating": 3.7,
+    "stock": 160,
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 67,
+    "name": "Deluxe Dino Pyjamas",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 249.4,
+    "rating": 4.9,
+    "stock": 0,
+    "tags": [
+      "sale"
+    ],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 68,
+    "name": "Deluxe Portable Speaker",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 221.83,
+    "rating": 4.9,
+    "stock": 70,
+    "tags": [],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 69,
+    "name": "Deluxe GPS Watch",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 123.62,
+    "rating": 4.8,
+    "stock": 154,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\u231a"
+  },
+  {
+    "id": 70,
+    "name": "Deluxe Compact Zoom",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 149.37,
+    "rating": 4.2,
+    "stock": 138,
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 71,
+    "name": "Deluxe Portable SSD",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 202.5,
+    "rating": 4.1,
+    "stock": 176,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 72,
+    "name": "Deluxe LED Desk Lamp",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 257.52,
+    "rating": 3.6,
+    "stock": 140,
+    "tags": [
+      "sale"
+    ],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 73,
+    "name": "Standard Herringbone Blazer",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 110.94,
+    "rating": 4.2,
+    "stock": 182,
+    "tags": [],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 74,
+    "name": "Standard Cashmere Cardigan",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 185.34,
+    "rating": 3.7,
+    "stock": 73,
+    "tags": [],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 75,
+    "name": "Standard Star Sleeveless",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 44.83,
+    "rating": 4.7,
+    "stock": 179,
+    "tags": [
+      "bestseller",
+      "new"
+    ],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 76,
+    "name": "Standard Bluetooth Headset",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 94.3,
+    "rating": 4.8,
+    "stock": 104,
+    "tags": [],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 77,
+    "name": "Standard Smart Ring",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 93.03,
+    "rating": 4.9,
+    "stock": 74,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\u231a"
+  },
+  {
+    "id": 78,
+    "name": "Standard 4K Camcorder",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 103.45,
+    "rating": 4.5,
+    "stock": 153,
+    "tags": [],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 79,
+    "name": "Standard USB-C Hub",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 254.78,
+    "rating": 4.4,
+    "stock": 15,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 80,
+    "name": "Standard Smart Doorbell",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 173.66,
+    "rating": 4.3,
+    "stock": 174,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 81,
+    "name": "Pro Herringbone Blazer",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 196.97,
+    "rating": 3.7,
+    "stock": 183,
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 82,
+    "name": "Pro Cashmere Cardigan",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 70.28,
+    "rating": 4.0,
+    "stock": 51,
+    "tags": [],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 83,
+    "name": "Pro Star Sleeveless",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 15.36,
+    "rating": 3.8,
+    "stock": 15,
+    "tags": [],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 84,
+    "name": "Pro Bluetooth Headset",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 136.13,
+    "rating": 4.3,
+    "stock": 9,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 85,
+    "name": "Pro Smart Ring",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 253.73,
+    "rating": 4.2,
+    "stock": 0,
+    "tags": [],
+    "image": "\u231a"
+  },
+  {
+    "id": 86,
+    "name": "Pro 4K Camcorder",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 32.26,
+    "rating": 3.8,
+    "stock": 154,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 87,
+    "name": "Pro USB-C Hub",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 102.28,
+    "rating": 4.6,
+    "stock": 0,
+    "tags": [],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 88,
+    "name": "Pro Smart Doorbell",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 46.3,
+    "rating": 3.8,
+    "stock": 71,
+    "tags": [],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 89,
+    "name": "Deluxe Herringbone Blazer",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 211.35,
+    "rating": 4.8,
+    "stock": 77,
+    "tags": [],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 90,
+    "name": "Deluxe Cashmere Cardigan",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 89.12,
+    "rating": 4.6,
+    "stock": 50,
+    "tags": [],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 91,
+    "name": "Deluxe Star Sleeveless",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 83.98,
+    "rating": 4.4,
+    "stock": 165,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 92,
+    "name": "Deluxe Bluetooth Headset",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 65.91,
+    "rating": 4.2,
+    "stock": 78,
+    "tags": [],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 93,
+    "name": "Deluxe Smart Ring",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 157.73,
+    "rating": 4.9,
+    "stock": 32,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\u231a"
+  },
+  {
+    "id": 94,
+    "name": "Deluxe 4K Camcorder",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 135.46,
+    "rating": 4.4,
+    "stock": 16,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 95,
+    "name": "Deluxe USB-C Hub",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 242.07,
+    "rating": 4.0,
+    "stock": 0,
+    "tags": [],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 96,
+    "name": "Deluxe Smart Doorbell",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 193.01,
+    "rating": 3.8,
+    "stock": 69,
+    "tags": [
+      "sale"
+    ],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 97,
+    "name": "Standard Merino Crewneck",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 31.14,
+    "rating": 4.6,
+    "stock": 131,
+    "tags": [],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 98,
+    "name": "Standard Tailored Trousers",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 155.9,
+    "rating": 3.9,
+    "stock": 53,
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 99,
+    "name": "Standard Knit Cardigan",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 67.52,
+    "rating": 3.9,
+    "stock": 154,
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 100,
+    "name": "Standard Soundbar",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 157.93,
+    "rating": 3.9,
+    "stock": 51,
+    "tags": [],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 101,
+    "name": "Standard Sport Band",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 200.04,
+    "rating": 4.4,
+    "stock": 40,
+    "tags": [],
+    "image": "\u231a"
+  },
+  {
+    "id": 102,
+    "name": "Standard Instant Camera",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 16.68,
+    "rating": 4.7,
+    "stock": 0,
+    "tags": [
+      "bestseller",
+      "new"
+    ],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 103,
+    "name": "Standard Webcam",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 152.84,
+    "rating": 4.5,
+    "stock": 182,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 104,
+    "name": "Standard Security Camera",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 171.92,
+    "rating": 3.7,
+    "stock": 143,
+    "tags": [],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 105,
+    "name": "Pro Merino Crewneck",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 60.58,
+    "rating": 4.1,
+    "stock": 25,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 106,
+    "name": "Pro Tailored Trousers",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 243.68,
+    "rating": 4.1,
+    "stock": 144,
+    "tags": [],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 107,
+    "name": "Pro Knit Cardigan",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 277.75,
+    "rating": 4.4,
+    "stock": 76,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 108,
+    "name": "Pro Soundbar",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 223.59,
+    "rating": 3.8,
+    "stock": 131,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 109,
+    "name": "Pro Sport Band",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 88.61,
+    "rating": 4.4,
+    "stock": 126,
+    "tags": [],
+    "image": "\u231a"
+  },
+  {
+    "id": 110,
+    "name": "Pro Instant Camera",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 81.55,
+    "rating": 4.1,
+    "stock": 22,
+    "tags": [],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 111,
+    "name": "Pro Webcam",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 132.36,
+    "rating": 4.3,
+    "stock": 57,
+    "tags": [],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 112,
+    "name": "Pro Security Camera",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 234.29,
+    "rating": 3.8,
+    "stock": 23,
+    "tags": [
+      "sale"
+    ],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 113,
+    "name": "Deluxe Merino Crewneck",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 128.79,
+    "rating": 4.1,
+    "stock": 185,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 114,
+    "name": "Deluxe Tailored Trousers",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 214.7,
+    "rating": 3.8,
+    "stock": 185,
+    "tags": [],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 115,
+    "name": "Deluxe Knit Cardigan",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 208.07,
+    "rating": 4.0,
+    "stock": 110,
+    "tags": [],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 116,
+    "name": "Deluxe Soundbar",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 70.42,
+    "rating": 3.7,
+    "stock": 83,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 117,
+    "name": "Deluxe Sport Band",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 224.79,
+    "rating": 4.4,
+    "stock": 110,
+    "tags": [],
+    "image": "\u231a"
+  },
+  {
+    "id": 118,
+    "name": "Deluxe Instant Camera",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 21.14,
+    "rating": 4.7,
+    "stock": 129,
+    "tags": [],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 119,
+    "name": "Deluxe Webcam",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 207.55,
+    "rating": 4.6,
+    "stock": 0,
+    "tags": [
+      "new"
+    ],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 120,
+    "name": "Deluxe Security Camera",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 286.44,
+    "rating": 4.5,
+    "stock": 165,
+    "tags": [],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 121,
+    "name": "Standard Cargo Pants",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 195.43,
+    "rating": 3.6,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 122,
+    "name": "Standard Chiffon Blouse",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 186.37,
+    "rating": 4.7,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 123,
+    "name": "Standard Denim Shorts",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 77.42,
+    "rating": 4.2,
+    "stock": 70,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 124,
+    "name": "Standard Turntable",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 237.12,
+    "rating": 4.0,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 125,
+    "name": "Standard Kids Smartwatch",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 254.14,
+    "rating": 4.4,
+    "stock": 76,
+    "tags": [],
+    "image": "\u231a"
+  },
+  {
+    "id": 126,
+    "name": "Standard Mirrorless",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 256.75,
+    "rating": 4.1,
+    "stock": 0,
+    "tags": [
+      "bestseller",
+      "new"
+    ],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 127,
+    "name": "Standard Graphics Tablet",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 86.31,
+    "rating": 4.9,
+    "stock": 144,
+    "tags": [],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 128,
+    "name": "Standard Robot Vacuum",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 169.27,
+    "rating": 4.6,
+    "stock": 54,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 129,
+    "name": "Pro Cargo Pants",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 116.17,
+    "rating": 4.3,
+    "stock": 141,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 130,
+    "name": "Pro Chiffon Blouse",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 198.73,
+    "rating": 4.0,
+    "stock": 134,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 131,
+    "name": "Pro Denim Shorts",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 202.02,
+    "rating": 3.9,
+    "stock": 97,
+    "tags": [],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 132,
+    "name": "Pro Turntable",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 264.4,
+    "rating": 4.2,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 133,
+    "name": "Pro Kids Smartwatch",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 111.7,
+    "rating": 4.3,
+    "stock": 79,
+    "tags": [],
+    "image": "\u231a"
+  },
+  {
+    "id": 134,
+    "name": "Pro Mirrorless",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 32.92,
+    "rating": 3.8,
+    "stock": 171,
+    "tags": [],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 135,
+    "name": "Pro Graphics Tablet",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 52.41,
+    "rating": 4.5,
+    "stock": 40,
+    "tags": [
+      "bestseller",
+      "sale"
+    ],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 136,
+    "name": "Pro Robot Vacuum",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 26.43,
+    "rating": 4.5,
+    "stock": 100,
+    "tags": [
+      "bestseller",
+      "sale"
+    ],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 137,
+    "name": "Deluxe Cargo Pants",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 217.7,
+    "rating": 4.2,
+    "stock": 178,
+    "tags": [],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 138,
+    "name": "Deluxe Chiffon Blouse",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 15.98,
+    "rating": 4.1,
+    "stock": 119,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 139,
+    "name": "Deluxe Denim Shorts",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 100.4,
+    "rating": 4.7,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 140,
+    "name": "Deluxe Turntable",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 25.04,
+    "rating": 4.5,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 141,
+    "name": "Deluxe Kids Smartwatch",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 119.3,
+    "rating": 4.0,
+    "stock": 0,
+    "tags": [
+      "sale"
+    ],
+    "image": "\u231a"
+  },
+  {
+    "id": 142,
+    "name": "Deluxe Mirrorless",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 109.38,
+    "rating": 4.2,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 143,
+    "name": "Deluxe Graphics Tablet",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 51.46,
+    "rating": 4.4,
+    "stock": 118,
+    "tags": [],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 144,
+    "name": "Deluxe Robot Vacuum",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 185.2,
+    "rating": 4.7,
+    "stock": 27,
+    "tags": [
+      "sale"
+    ],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 145,
+    "name": "Standard Polo Shirt",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 124.31,
+    "rating": 3.7,
+    "stock": 106,
+    "tags": [],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 146,
+    "name": "Standard Maxi Sundress",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 256.77,
+    "rating": 3.9,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 147,
+    "name": "Standard Sport Set",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 150.83,
+    "rating": 3.8,
+    "stock": 164,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 148,
+    "name": "Standard Earbuds",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 34.54,
+    "rating": 4.1,
+    "stock": 137,
+    "tags": [],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 149,
+    "name": "Standard Hybrid Watch",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 39.08,
+    "rating": 4.8,
+    "stock": 0,
+    "tags": [],
+    "image": "\u231a"
+  },
+  {
+    "id": 150,
+    "name": "Standard Webcam",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 40.37,
+    "rating": 4.0,
+    "stock": 38,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 151,
+    "name": "Standard 4K Monitor",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 106.39,
+    "rating": 4.7,
+    "stock": 66,
+    "tags": [
+      "new"
+    ],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 152,
+    "name": "Standard Smart Plug",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 235.32,
+    "rating": 4.6,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 153,
+    "name": "Pro Polo Shirt",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 45.11,
+    "rating": 4.4,
+    "stock": 46,
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 154,
+    "name": "Pro Maxi Sundress",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 70.06,
+    "rating": 4.3,
+    "stock": 172,
+    "tags": [
+      "bestseller",
+      "sale"
+    ],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 155,
+    "name": "Pro Sport Set",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 267.61,
+    "rating": 3.7,
+    "stock": 0,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 156,
+    "name": "Pro Earbuds",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 172.91,
+    "rating": 4.8,
+    "stock": 0,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 157,
+    "name": "Pro Hybrid Watch",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 281.36,
+    "rating": 4.8,
+    "stock": 57,
+    "tags": [],
+    "image": "\u231a"
+  },
+  {
+    "id": 158,
+    "name": "Pro Webcam",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 58.62,
+    "rating": 4.1,
+    "stock": 66,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 159,
+    "name": "Pro 4K Monitor",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 283.33,
+    "rating": 4.7,
+    "stock": 158,
+    "tags": [],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 160,
+    "name": "Pro Smart Plug",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 274.76,
+    "rating": 4.5,
+    "stock": 139,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 161,
+    "name": "Deluxe Polo Shirt",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 21.98,
+    "rating": 4.7,
+    "stock": 0,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 162,
+    "name": "Deluxe Maxi Sundress",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 122.94,
+    "rating": 4.0,
+    "stock": 15,
+    "tags": [
+      "bestseller",
+      "sale"
+    ],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 163,
+    "name": "Deluxe Sport Set",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 122.76,
+    "rating": 4.8,
+    "stock": 0,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 164,
+    "name": "Deluxe Earbuds",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 160.36,
+    "rating": 4.3,
+    "stock": 0,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 165,
+    "name": "Deluxe Hybrid Watch",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 267.16,
+    "rating": 4.6,
+    "stock": 81,
+    "tags": [
+      "new"
+    ],
+    "image": "\u231a"
+  },
+  {
+    "id": 166,
+    "name": "Deluxe Webcam",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 153.32,
+    "rating": 3.9,
+    "stock": 126,
+    "tags": [],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 167,
+    "name": "Deluxe 4K Monitor",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 148.33,
+    "rating": 3.7,
+    "stock": 0,
+    "tags": [],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 168,
+    "name": "Deluxe Smart Plug",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 45.94,
+    "rating": 4.8,
+    "stock": 159,
+    "tags": [
+      "bestseller",
+      "sale"
+    ],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 169,
+    "name": "Standard Denim Jacket",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 144.91,
+    "rating": 3.7,
+    "stock": 98,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 170,
+    "name": "Standard Pleated Culottes",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 195.16,
+    "rating": 4.5,
+    "stock": 44,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 171,
+    "name": "Standard Fleece Hoodie",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 67.24,
+    "rating": 4.4,
+    "stock": 89,
+    "tags": [],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 172,
+    "name": "Standard Studio Monitors",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 100.46,
+    "rating": 4.3,
+    "stock": 31,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 173,
+    "name": "Standard HR Monitor",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 132.83,
+    "rating": 4.2,
+    "stock": 180,
+    "tags": [],
+    "image": "\u231a"
+  },
+  {
+    "id": 174,
+    "name": "Standard Drone Camera",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 175.99,
+    "rating": 4.1,
+    "stock": 117,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 175,
+    "name": "Standard Laptop Stand",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 59.19,
+    "rating": 4.2,
+    "stock": 33,
+    "tags": [
+      "sale"
+    ],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 176,
+    "name": "Standard Air Purifier",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 135.52,
+    "rating": 4.6,
+    "stock": 153,
+    "tags": [],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 177,
+    "name": "Pro Denim Jacket",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 42.99,
+    "rating": 4.0,
+    "stock": 41,
+    "tags": [],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 178,
+    "name": "Pro Pleated Culottes",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 92.86,
+    "rating": 4.4,
+    "stock": 43,
+    "tags": [],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 179,
+    "name": "Pro Fleece Hoodie",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 284.89,
+    "rating": 4.2,
+    "stock": 100,
+    "tags": [],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 180,
+    "name": "Pro Studio Monitors",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 19.84,
+    "rating": 4.4,
+    "stock": 71,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 181,
+    "name": "Pro HR Monitor",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 33.7,
+    "rating": 3.9,
+    "stock": 0,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\u231a"
+  },
+  {
+    "id": 182,
+    "name": "Pro Drone Camera",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 200.73,
+    "rating": 3.7,
+    "stock": 36,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 183,
+    "name": "Pro Laptop Stand",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 143.37,
+    "rating": 4.9,
+    "stock": 0,
+    "tags": [],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 184,
+    "name": "Pro Air Purifier",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 254.4,
+    "rating": 4.5,
+    "stock": 0,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 185,
+    "name": "Deluxe Denim Jacket",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 275.57,
+    "rating": 4.3,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 186,
+    "name": "Deluxe Pleated Culottes",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 216.07,
+    "rating": 4.7,
+    "stock": 114,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 187,
+    "name": "Deluxe Fleece Hoodie",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 168.74,
+    "rating": 4.6,
+    "stock": 36,
+    "tags": [
+      "bestseller",
+      "new",
+      "sale"
+    ],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 188,
+    "name": "Deluxe Studio Monitors",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 211.48,
+    "rating": 3.7,
+    "stock": 29,
+    "tags": [],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 189,
+    "name": "Deluxe HR Monitor",
+    "category": "Wearables",
+    "department": "Electronics",
+    "price": 256.07,
+    "rating": 4.9,
+    "stock": 44,
+    "tags": [],
+    "image": "\u231a"
+  },
+  {
+    "id": 190,
+    "name": "Deluxe Drone Camera",
+    "category": "Cameras",
+    "department": "Electronics",
+    "price": 211.79,
+    "rating": 3.8,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83d\udcf7"
+  },
+  {
+    "id": 191,
+    "name": "Deluxe Laptop Stand",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 44.8,
+    "rating": 4.2,
+    "stock": 72,
+    "tags": [],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 192,
+    "name": "Deluxe Air Purifier",
+    "category": "Home",
+    "department": "Electronics",
+    "price": 274.96,
+    "rating": 3.6,
+    "stock": 73,
+    "tags": [],
+    "image": "\ud83d\udca1"
+  },
+  {
+    "id": 193,
+    "name": "Standard Athletic Tee",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 251.55,
+    "rating": 4.5,
+    "stock": 169,
+    "tags": [
+      "bestseller",
+      "sale"
+    ],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 194,
+    "name": "Standard V-Neck Jumper",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 241.43,
+    "rating": 4.4,
+    "stock": 9,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 195,
+    "name": "Standard Party Dress",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 28.49,
+    "rating": 4.2,
+    "stock": 27,
+    "tags": [],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 196,
+    "name": "Standard Car Speaker",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 48.29,
+    "rating": 4.7,
+    "stock": 36,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 197,
+    "name": "Standard Gaming Keyboard",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 266.96,
+    "rating": 4.4,
+    "stock": 0,
+    "tags": [
+      "new"
+    ],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 198,
+    "name": "Pro Athletic Tee",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 163.38,
+    "rating": 4.3,
+    "stock": 141,
+    "tags": [],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 199,
+    "name": "Pro V-Neck Jumper",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 26.46,
+    "rating": 4.4,
+    "stock": 12,
+    "tags": [],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 200,
+    "name": "Pro Party Dress",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 23.29,
+    "rating": 4.1,
+    "stock": 126,
+    "tags": [],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 201,
+    "name": "Pro Car Speaker",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 219.56,
+    "rating": 3.8,
+    "stock": 123,
+    "tags": [],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 202,
+    "name": "Pro Gaming Keyboard",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 36.4,
+    "rating": 4.6,
+    "stock": 67,
+    "tags": [],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 203,
+    "name": "Deluxe Athletic Tee",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 235.86,
+    "rating": 4.7,
+    "stock": 54,
+    "tags": [],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 204,
+    "name": "Deluxe V-Neck Jumper",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 20.15,
+    "rating": 4.3,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 205,
+    "name": "Deluxe Party Dress",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 32.14,
+    "rating": 4.8,
+    "stock": 0,
+    "tags": [
+      "sale"
+    ],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 206,
+    "name": "Deluxe Car Speaker",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 159.01,
+    "rating": 4.1,
+    "stock": 159,
+    "tags": [],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 207,
+    "name": "Deluxe Gaming Keyboard",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 158.96,
+    "rating": 4.8,
+    "stock": 168,
+    "tags": [
+      "bestseller",
+      "sale"
+    ],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 208,
+    "name": "Standard Wool Trousers",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 286.15,
+    "rating": 4.6,
+    "stock": 12,
+    "tags": [],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 209,
+    "name": "Standard Satin Camisole",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 270.51,
+    "rating": 4.8,
+    "stock": 0,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 210,
+    "name": "Standard Graphic Leggings",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 106.78,
+    "rating": 4.8,
+    "stock": 74,
+    "tags": [],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 211,
+    "name": "Standard Fitness Earbuds",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 211.05,
+    "rating": 4.7,
+    "stock": 90,
+    "tags": [],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 212,
+    "name": "Standard External HDD",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 104.5,
+    "rating": 3.8,
+    "stock": 162,
+    "tags": [
+      "new"
+    ],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 213,
+    "name": "Pro Wool Trousers",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 285.72,
+    "rating": 4.8,
+    "stock": 190,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 214,
+    "name": "Pro Satin Camisole",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 246.84,
+    "rating": 3.9,
+    "stock": 24,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 215,
+    "name": "Pro Graphic Leggings",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 16.02,
+    "rating": 4.6,
+    "stock": 0,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 216,
+    "name": "Pro Fitness Earbuds",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 29.66,
+    "rating": 4.3,
+    "stock": 148,
+    "tags": [],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 217,
+    "name": "Pro External HDD",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 244.56,
+    "rating": 3.9,
+    "stock": 99,
+    "tags": [],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 218,
+    "name": "Deluxe Wool Trousers",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 147.24,
+    "rating": 4.9,
+    "stock": 57,
+    "tags": [],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 219,
+    "name": "Deluxe Satin Camisole",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 36.02,
+    "rating": 4.8,
+    "stock": 102,
+    "tags": [],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 220,
+    "name": "Deluxe Graphic Leggings",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 79.07,
+    "rating": 4.2,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 221,
+    "name": "Deluxe Fitness Earbuds",
+    "category": "Audio",
+    "department": "Electronics",
+    "price": 18.16,
+    "rating": 3.7,
+    "stock": 166,
+    "tags": [],
+    "image": "\ud83c\udfa7"
+  },
+  {
+    "id": 222,
+    "name": "Deluxe External HDD",
+    "category": "Computing",
+    "department": "Electronics",
+    "price": 125.48,
+    "rating": 3.7,
+    "stock": 185,
+    "tags": [
+      "bestseller",
+      "new"
+    ],
+    "image": "\u2328\ufe0f"
+  },
+  {
+    "id": 223,
+    "name": "Standard Camp Shirt",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 38.22,
+    "rating": 4.5,
+    "stock": 0,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 224,
+    "name": "Standard Wide-Leg Pants",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 55.39,
+    "rating": 3.9,
+    "stock": 158,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 225,
+    "name": "Standard Striped Top",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 238.25,
+    "rating": 3.8,
+    "stock": 115,
+    "tags": [],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 226,
+    "name": "Pro Camp Shirt",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 133.89,
+    "rating": 4.4,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 227,
+    "name": "Pro Wide-Leg Pants",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 31.61,
+    "rating": 3.9,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 228,
+    "name": "Pro Striped Top",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 226.75,
+    "rating": 4.4,
+    "stock": 182,
+    "tags": [
+      "new"
+    ],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 229,
+    "name": "Deluxe Camp Shirt",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 213.59,
+    "rating": 3.8,
+    "stock": 26,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 230,
+    "name": "Deluxe Wide-Leg Pants",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 93.23,
+    "rating": 4.2,
+    "stock": 137,
+    "tags": [],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 231,
+    "name": "Deluxe Striped Top",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 155.25,
+    "rating": 4.1,
+    "stock": 25,
+    "tags": [],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 232,
+    "name": "Standard Quarter-Zip Pullover",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 182.57,
+    "rating": 4.4,
+    "stock": 42,
+    "tags": [
+      "bestseller",
+      "new"
+    ],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 233,
+    "name": "Standard Trench Coat",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 271.53,
+    "rating": 3.6,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 234,
+    "name": "Standard Puffer Vest",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 104.25,
+    "rating": 4.9,
+    "stock": 144,
+    "tags": [
+      "bestseller"
+    ],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 235,
+    "name": "Pro Quarter-Zip Pullover",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 18.89,
+    "rating": 4.9,
+    "stock": 0,
+    "tags": [],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 236,
+    "name": "Pro Trench Coat",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 120.99,
+    "rating": 4.8,
+    "stock": 73,
+    "tags": [],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 237,
+    "name": "Pro Puffer Vest",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 130.36,
+    "rating": 4.9,
+    "stock": 29,
+    "tags": [],
+    "image": "\ud83e\uddf8"
+  },
+  {
+    "id": 238,
+    "name": "Deluxe Quarter-Zip Pullover",
+    "category": "Men",
+    "department": "Fashion",
+    "price": 241.36,
+    "rating": 3.9,
+    "stock": 54,
+    "tags": [],
+    "image": "\ud83d\udc54"
+  },
+  {
+    "id": 239,
+    "name": "Deluxe Trench Coat",
+    "category": "Women",
+    "department": "Fashion",
+    "price": 276.05,
+    "rating": 3.8,
+    "stock": 72,
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "image": "\ud83d\udc57"
+  },
+  {
+    "id": 240,
+    "name": "Deluxe Puffer Vest",
+    "category": "Kids",
+    "department": "Fashion",
+    "price": 79.36,
+    "rating": 4.3,
+    "stock": 177,
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "image": "\ud83e\uddf8"
+  }
+]
