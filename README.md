@@ -192,11 +192,8 @@ http://localhost:5173
 
 ## Live Demo
 
-Add your deployed project link here:
+[View Live Demo](https://aaryani-data-grid.netlify.app/)
 
-```md
-[View Live Demo](http://localhost:5177/)
-```
 
 ## Author
 
